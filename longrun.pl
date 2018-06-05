@@ -1,4 +1,5 @@
 #!/usr/bin/perl -swnl
+# Built on AIX 6 against DB2 V9.7
 #  This script pulls out AVG exec time, num execs and
 #  Statement text of sqls from snap where avg exec time
 #  is greater than the \$sqltime variable below
